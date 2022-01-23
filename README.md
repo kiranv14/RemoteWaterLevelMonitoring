@@ -1,5 +1,6 @@
 # RemoteWaterLevelMonitoring
-A simple project with ESP8266 and Arduino to monitor water level in three independent tanks setup in a remote location. Provision to remotely operate a value is added
+A simple project with ESP8266 and Arduino to monitor water level in three independent tanks setup in a remote location. 
+Provision to remotely operate a value is added
 
 ## Hardware Used:
 - NodeMCU ESP8266 for Wifi connectivity
@@ -8,3 +9,5 @@ A simple project with ESP8266 and Arduino to monitor water level in three indepe
 ## Infrastructure:
 - InfluxDB cloud for data storage
 - Grafana for Visualization
+
+----------------------------------------------------------------------------------------------------------------------------
